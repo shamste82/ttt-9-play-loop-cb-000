@@ -9,5 +9,4 @@ display_board(board)
 
 # Make sure to execute #play below
 
-for (1..9)
-  turn(board)
+play(board)
